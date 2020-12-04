@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Foco De Calor</string>
+    <string name="title_activity_maps">Focos De Calor</string>
+
+    <string name="prompt_lagind_generic">Buscando informações</string>
+</resources>
